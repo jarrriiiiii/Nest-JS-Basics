@@ -1,0 +1,6 @@
+-.env file [Connection to PostGres DB]
+-Basic CRUD Operations without TypeORM inside FEED folder
+-DTO file
+-Entity File
+-Interface File
+-POSTMAN API Files
